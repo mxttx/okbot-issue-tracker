@@ -1,7 +1,7 @@
 # okbot
 This repository stands as a bug tracking and reporting feature for okbot.
 
-All past and present development is done by myself, [Matt](https://github.com/mxttx). You can also find me on Discord @Matt;)#7784.
+All past and present development is done by myself, [Matt](https://github.com/mxttx). Find me on Discord @Matt;)#7784.
 
 For anymore information you may request it by joining the official [okbot Discord guild](https://discord.gg/r6FvBtS).
 
