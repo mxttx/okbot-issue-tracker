@@ -11,11 +11,10 @@ You should report any issues you have with okbot in the "Issues" tab in this rep
 ### Rules
 Please keep to the rules when creating an Issue.
 
-* Please keep all issues in English
-  * I cannot understand any other language and hence the issue will be deleted.
+* Please keep all issues in English.
 * Stick to the templates provided in this repository.
-  * Make sure your issue has a proper title and include as much information as possible.
+* Make sure your issue has a proper title so the problem can be deciphered quickly.
+* Issues should include as much revelant information as possible, including screenshots if possible.
 * Suggestions should be thought out and planned, not rushed and sloppy.
 * Do not create an issue if the bug/suggestion has already been reported.
-  * Always check and use the search function before posting an issue.
 * Contribution to issues is reccomended via the comments section, however spam will not be tolerated.
