@@ -14,7 +14,7 @@ assignees: mxttx
 <!--- Tell us what should happen. -->
 
 ## Current Behavior
-<!--- Tell us what happens instead of the expected behaviour. -->
+<!--- Tell us what happens instead of the expected behavior. -->
 
 ## Possible Solution
 <!--- Not obligatory, but suggest a fix/reason for the bug. -->
@@ -26,6 +26,5 @@ assignees: mxttx
 3.
 4.
 
-## Background (Environment)
-<!--- Tell us there anything else we should know about that may or -->
-<!--- may not help to reproduce this bug. -->
+## Background (Discord ID and screenshots if possible)
+<!--- Tell us anything else we should know about that may help to reproduce this bug. -->
