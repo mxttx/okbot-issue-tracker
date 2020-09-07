@@ -2,7 +2,7 @@
 name: Suggestion
 about: Make sure you have a title relevant to the suggestion!
 title: ''
-labels: ''
+labels: suggestion
 assignees: mxttx
 
 ---
